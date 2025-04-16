@@ -16,6 +16,6 @@
 - [`git checkout — <file>…​`](https://git-scm.com/book/uk/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8-Git-%D0%A1%D0%BA%D0%B0%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%80%D0%B5%D1%87%D0%B5%D0%B9) - скасування змін у зміненому файлі
 
 ## Синхронізація локального репозиторія з GitHub
-- [`git remote`]() - налаштування комунікації з репозиторієм на віддаленому сервері (GitHub, GitLab etc.)
-- [`git push`]() - відправка локальних змін на сервер
-- [`git pull`]() - завантаження актуальних змін з серверу в локальний репозиторій
+- [`git remote`](https://git-scm.com/book/uk/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8-Git-%D0%92%D0%B7%D0%B0%D1%94%D0%BC%D0%BE%D0%B4%D1%96%D1%8F-%D0%B7-%D0%B2%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%BC%D0%B8-%D1%81%D1%85%D0%BE%D0%B2%D0%B8%D1%89%D0%B0%D0%BC%D0%B8) - налаштування комунікації з репозиторієм на віддаленому сервері (GitHub, GitLab etc.)
+- [`git push`](https://git-scm.com/book/uk/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8-Git-%D0%92%D0%B7%D0%B0%D1%94%D0%BC%D0%BE%D0%B4%D1%96%D1%8F-%D0%B7-%D0%B2%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%BC%D0%B8-%D1%81%D1%85%D0%BE%D0%B2%D0%B8%D1%89%D0%B0%D0%BC%D0%B8) - відправка локальних змін на сервер
+- [`git pull`](https://git-scm.com/book/uk/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8-Git-%D0%92%D0%B7%D0%B0%D1%94%D0%BC%D0%BE%D0%B4%D1%96%D1%8F-%D0%B7-%D0%B2%D1%96%D0%B4%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%BC%D0%B8-%D1%81%D1%85%D0%BE%D0%B2%D0%B8%D1%89%D0%B0%D0%BC%D0%B8) - завантаження актуальних змін з серверу в локальний репозиторій
